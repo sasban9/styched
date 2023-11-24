@@ -1,6 +1,6 @@
 *{font-size: 1.2rem;}
 b{font-size: 1.3rem;}
-div img{max-width: 100%;max-height: 80vh;margin-bottom: 0.5rem;vertical-align: center;}
+div img{max-width: 100%;max-height: 80vh;margin-bottom: 0.5rem;}
 h1,h2,h3{margin-top:3rem;}
 #metrics-table tr th{background: #eee;}
 #metrics-table tr th:nth-of-type(1){background: #ddd;}
